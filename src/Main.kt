@@ -1,3 +1,4 @@
 fun main() {
-    println("Hello World!")
+    var str = "Занятие"
+    str.forEach { println(it) }
 }
